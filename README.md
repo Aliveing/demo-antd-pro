@@ -21,5 +21,3 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
-![Part of desktop screen](.gitbook/assets/image%20%284%29.png)
-
